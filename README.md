@@ -77,8 +77,13 @@ It only becomes public when:
 ---
 
 ## 📷 Architecture Diagram (Optional)
+<img width="1873" height="659" alt="Screenshot 2025-07-02 162919" src="https://github.com/user-attachments/assets/b031eb0c-2337-432f-9ac6-79b5ec452385" />
 
-(Add screenshot here if you have one)
+<img width="1574" height="298" alt="Screenshot 2025-07-02 170604" src="https://github.com/user-attachments/assets/065b2096-ac02-4a21-ba81-7359df309f7c" />
+
+<img width="1005" height="246" alt="Screenshot 2025-07-02 174838" src="https://github.com/user-attachments/assets/330d4f02-64c2-4ef6-8e1e-909ab24c90ae" />
+
+
 
 ---
 
